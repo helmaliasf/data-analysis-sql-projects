@@ -1,4 +1,4 @@
-# Hi there, I'm Mevi 👋
+# Hi there, I'm Helmalia Saiyidatul Fanesa 👋
 
 I am a recent **Mathematics graduate** with a strong passion for **data analytics** and deriving insights from data. I am eager to apply my analytical and problem-solving skills to real-world business challenges and grow as a **Data Analyst**.
 
@@ -24,9 +24,9 @@ I am a recent **Mathematics graduate** with a strong passion for **data analytic
 - Contribute to impactful projects as a **Data Analyst**.
 
 ## 📫 Contact Me
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** fanesahelmalia10@gmail.com  
+- **LinkedIn:** [linkedin.com/in/helmaliasf](https://linkedin.com/in/helmaliasf)  
+- **GitHub:** [github.com/helmaliasf](https://github.com/helmaliasf)
 
 ## ⚡ Fun Fact
 I enjoy turning **complex datasets into clear, actionable insights** and learning new ways to make data tell a story.
