@@ -1,5 +1,9 @@
 Supermarket Transactions Analysis
+
+
 Overview
+
+
 This project provides a comprehensive analysis of supermarket transactions using SQL. The dataset includes transactions, products, branches, and customers. The analysis aims to provide insights into sales performance, customer behavior, and product trends across branches and cities.
 
 Dataset / Tables
