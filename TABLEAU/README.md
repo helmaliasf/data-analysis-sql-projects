@@ -1,67 +1,64 @@
 Superstore Sales Dashboard – Tableau Portfolio
 
-This project presents an interactive Superstore Sales Dashboard built using Tableau.
-The dashboard visualizes key business metrics such as sales, profit, customer segments, product performance, and geographic distribution across the United States.
-It is designed to help users quickly understand trends, identify high-performing areas, and explore detailed transaction-level data.
+This repository showcases an interactive Superstore Sales Dashboard created using Tableau.
+The dashboard analyzes U.S. retail sales data and highlights product performance, geographic trends, and customer behavior.
+It is published on Tableau Public and optimized for interactive exploration.
 
-🌐 Interactive Dashboard
+🌐 🔗 Live Dashboard on Tableau Public
 
-View the full interactive version on Tableau Public:
+👉 View the full interactive dashboard here:
+https://public.tableau.com/your-dashboard-link
 
-👉 Tableau Public Link – Superstore Dashboard
+(Replace with your actual Tableau Public URL.)
 
-(Replace the link above with your actual published Tableau Public URL.)
+The Tableau Public version allows users to interact with all filters, maps, charts, and detailed tables directly in their browser.
 
-📁 Dataset
+📁 Dataset Used
 
 File: sample_-_superstore.xls
 
-Source: Tableau Sample Superstore dataset
+Source: Tableau Sample Superstore Dataset
 
-Records: U.S. retail sales from 2014–2018
+Contents:
 
-Main fields:
+Order & Shipment Dates
 
-Order Date, Ship Date, Ship Mode
+Customer Segments
 
-Product Category & Sub-category
+Product Categories & Sub-categories
 
-Customer Segment
+Sales, Profit, Quantity, Discount
 
-State, City
+Geographic information (State, City)
 
-Sales, Quantity, Discount, Profit
+🎯 Dashboard Purpose
 
-🎯 Dashboard Objectives
+The goal of this dashboard is to provide insights into:
 
-The dashboard is designed to answer several key business questions:
+Sales performance across U.S. states
 
-Which states generate the highest sales?
+Yearly and monthly sales trends
 
-What is the trend of sales over time from 2014 to 2018?
+Contribution of each product category to revenue
 
-Which product categories contribute the most to the revenue?
+Quantity distribution across categories
 
-How is quantity distributed across categories?
+Profitability and sales details by state and city
 
-How do filters such as category and shipment mode affect performance?
+Impact of shipment mode and product category through filters
 
-What does the detailed breakdown of profit, quantity, and sales look like at the state & city level?
+📊 Dashboard Components
+1. Sales per State (Map Visualization)
 
-📊 Dashboard Features
-1. Sales per State (Geographical Map)
-
-A filled map showing total sales by U.S. state.
-Darker shades represent states with higher revenue.
+A color-coded filled map showing total sales by U.S. state to identify top-performing regions.
 
 2. Trend Sales (Line Chart)
 
-A monthly sales trend from 2014–2018.
-Useful for identifying seasonal patterns and growth over the years.
+A time series of monthly sales trends from 2014–2018.
 
 3. Sales per Category (Bar Chart)
 
-Compares sales across the three main categories:
+Comparison of revenue across these major categories:
 
 Technology
 
@@ -71,15 +68,11 @@ Office Supplies
 
 4. Category Quantity (Pie Chart)
 
-Shows proportional quantity sold per product category.
+Distribution of total quantity sold by each product category.
 
-5. Detail Table (State–City Breakdown)
+5. Detailed State–City Table
 
-An interactive table listing:
-
-State
-
-City
+Provides granular data including:
 
 Profit
 
@@ -87,46 +80,47 @@ Quantity
 
 Sales
 
-Useful for drilling down into the granular performance of each region.
+City-level breakdown for each state
 
 6. Interactive Filters
 
-Ship Mode
+Users can refine the dashboard view using:
 
-Category
+Ship Mode Filter
 
-These allow users to dynamically explore different business scenarios.
+Category Filter
 
-🧠 Key Insights
+🧠 Key Insights (from the dashboard)
 
-(You may keep these or customize them.)
+(You may edit these as needed.)
 
-Technology generates the highest sales among all product categories.
+Technology consistently contributes the highest sales.
 
-Sales show strong upward growth toward 2017–2018.
+Sales show a strong upward trend approaching 2018.
 
-Some states (e.g., Washington, California, New York) dominate total revenue.
+Western and Eastern coastal states generate the highest revenue.
 
-Office Supplies contributes the highest quantity sold, despite not being the top in sales.
+Office Supplies sells the highest quantity but not the highest sales.
 
-Certain states with lower sales still show moderate profit, indicating potential opportunities.
+Several states show low revenue but positive profit, indicating growth opportunities.
 
-🛠 Tools Used
+🛠 Tools & Technologies
 
-Tableau Public / Tableau Desktop
+Tableau Public
+
+Tableau Desktop
 
 Microsoft Excel
 
-Superstore Sample Dataset
+📎 Repo Contents
 
-📎 How to Use
+Belajar Tableau.twbx — packaged Tableau workbook
 
-Download the .twbx file from this repository.
+sample_-_superstore.xls — dataset used in the dashboard
 
-Open using Tableau Desktop or Tableau Public Desktop.
-
-Use filters to explore insights by category, region, and shipment mode.
+README.md — project documentation
 
 👤 Author
 
 Helmalia Saiyidatul Fanesa
+Data Analyst Enthusiast
