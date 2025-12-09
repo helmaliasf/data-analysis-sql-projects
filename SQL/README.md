@@ -50,4 +50,4 @@ Members spend more per transaction than non-members.
 Credit card payments are the most common method for high-value transactions.
 How to Run
 Clone the repository:
-git clone https://github.com/username/your-repo.git
+git clone https://github.com/helmaliasf/my-portofolio.git
